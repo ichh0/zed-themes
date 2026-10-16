@@ -1,0 +1,13 @@
+id = "icho-blur"
+
+name = "Icho Blur"
+
+schema_version = 1
+
+version = "0.1.1"
+
+authors = ["Icho"]
+
+description = "Icho dark themes with blur/transparency effects. Peppermint, orange, blue and violet flavored."
+
+repository = "https://github.com/icho-blur/icho-blur"
